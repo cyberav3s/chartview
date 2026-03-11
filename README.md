@@ -1,6 +1,7 @@
-# chartview
+# chartview UI
 
-A new Flutter project.
+![Alt Text](screenshots/Screenshot_20260311_183150.jpg)
+![Alt Text](screenshots/Screenshot_20260311_183218.jpg)
 
 ## Getting Started
 
