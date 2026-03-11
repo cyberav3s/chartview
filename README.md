@@ -1,5 +1,7 @@
 # ChartView — Flutter Clean Architecture
 
+![Screenshot](https://i.ibb.co/8kpH9N6/IMG-20260311-183438-1.jpg)   
+
 A production-quality TradingView-inspired trading app built with Flutter using Clean Architecture principles.
 
 ## 🏗️ Architecture
